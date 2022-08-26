@@ -37,10 +37,6 @@ def bublleSort(listaNum, maior):
         troca = False
 
 
-listaStr = input().split()  # leitura números entradas e separa em elementos da lista
-
-listaNum = []
-
 maior = int(listaStr[0])
 for n in listaStr:  # converte string em inteiro
     num = int(n)
