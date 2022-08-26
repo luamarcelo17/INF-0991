@@ -22,11 +22,12 @@ def bublleSort(listaNum, maior):
 
 
 maior = int(listaStr[0])
-for n in listaStr:  # converte string em inteiro
-    num = int(n)
-    listaNum.append(num)
-    if num > maior:
-        maior = num
+def função nova():
+    for n in listaStr:  # converte string em inteiro
+        num = int(n)
+        listaNum.append(num)
+        if num > maior:
+            maior = num
 
 bublleSort(listaNum, maior)
 
