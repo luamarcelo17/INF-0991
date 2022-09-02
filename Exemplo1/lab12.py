@@ -37,4 +37,5 @@ def desenhar(listaNum, maior):
                     print(' ', end='')
             print('.')
 
+#comentário teste
 #comentário 1 na main
