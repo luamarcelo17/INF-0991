@@ -36,6 +36,3 @@ def desenhar(listaNum, maior):
                 else:
                     print(' ', end='')
             print('.')
-
-#comentário 1 na main
-#comentário 2 na main
