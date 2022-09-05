@@ -39,3 +39,4 @@ def desenhar(listaNum, maior):
 #comentário C1
 #comentário C2
 #comentário C5
+#comentário C6
