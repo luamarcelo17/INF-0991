@@ -19,3 +19,4 @@ def bublleSort(listaNum, maior):
             #print()
         #print(listaNum)
         troca = False
+#comentário c1
