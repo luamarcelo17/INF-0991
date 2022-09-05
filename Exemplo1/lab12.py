@@ -19,24 +19,3 @@ def bublleSort(listaNum, maior):
             #print()
         #print(listaNum)
         troca = False
-
-
-
-bublleSort(listaNum, maior)
-
-def desenhar(listaNum, maior):
-    for i in range(maior+2):
-        if i == 0 or i == (maior+1):
-            print('.'*(len(listaNum)+2))
-        else:
-            print('.', end='')
-            for j in range(len(listaNum)):
-                if i-1 + listaNum[j] >= maior:
-                    print('|', end='')
-                else:
-                    print(' ', end='')
-            print('.')
-#comentário C1
-#comentário C2
-#comentário C5
-#comentário C6
