@@ -37,3 +37,4 @@ def desenhar(listaNum, maior):
                     print(' ', end='')
             print('.')
 #comentário C1
+#comentário C2
