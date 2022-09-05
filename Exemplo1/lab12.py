@@ -36,3 +36,4 @@ def desenhar(listaNum, maior):
                 else:
                     print(' ', end='')
             print('.')
+#comentário C1
